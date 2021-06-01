@@ -145,7 +145,6 @@
 				C5F4B9FABD45D3F2489C4F74 /* Pods-starterapp-starterappTests.debug.xcconfig */,
 				6D251FA2DCF6D5B773CBB2E6 /* Pods-starterapp-starterappTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
